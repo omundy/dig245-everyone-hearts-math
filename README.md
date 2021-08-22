@@ -3,7 +3,7 @@
 
 Create a dynamic web page that performs a math story problem.
 
-![swissted](assets/img/colorful-numbers.png)
+![numbers](assets/img/colorful-numbers.png)
 
 
 
