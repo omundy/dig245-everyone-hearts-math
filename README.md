@@ -21,16 +21,15 @@ Students who complete the following will be able to:
 </details>
 
 
-
-
 <details>
-<summary>Content</summary>
+<summary>Preparation</summary>
 
 Complete the following to prepare for this assignment
 
 - [w3schools: HTTP Request Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
 - [Codecademy: JS 1-1 Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) (1–8)
 - [Codecademy: JS 1-2 Variables](https://www.codecademy.com/learn/introduction-to-javascript) (1–6)
+- [Codecademy: JS 2-1 Conditional Statements](https://www.codecademy.com/learn/introduction-to-javascript) (1–8)
 - [Codecademy: HTML 3-1 Forms](https://www.codecademy.com/learn/learn-html) (1-14)
 - [Codecademy: HTML 3-2 Form Validation](https://www.codecademy.com/learn/learn-html) (1-6)
 
