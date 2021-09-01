@@ -77,7 +77,7 @@ Points | Category | Description
 4 | Concept | Idea is original and evokes deeper thinking on the subject.
 4 | Design | Overall quality and use of design principles; Graphics are consistent, layout displays clear information hierarchy
 4 | Execution | Concept and design is well-executed, is usable, and functions as intended
-4 | Instructions | Project is online, accessible, and linked from Moodle
+4 | Instructions | Project is online, accessible, and linked from Moodle by the deadline
 4 | Validation | Valid HTML and CSS
 20 | Total |
 
