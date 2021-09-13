@@ -1,7 +1,7 @@
 
 # Everyone ♥ Math
 
-Create a dynamic web page that performs a math story problem.
+Work with a partner to create a dynamic web page that performs a math story problem.
 
 ![numbers](assets/img/colorful-numbers.png)
 
@@ -10,13 +10,14 @@ Create a dynamic web page that performs a math story problem.
 <details>
 <summary>Learning Objectives</summary>
 
-Students who complete the following will be able to:
+Students who complete this assignment will be able to:
 
 - Recall how the `form`, `input`, and `select` elements work together in web forms
 - Describe the difference between HTTP Request Methods `GET` and `POST`
-- Compare types of form validation and their purpose
+- Compare types of form validation (client vs. server) and their purpose
 - List attributes like `required`, `type`, `range`, `max`, and `pattern` used to set acceptable input values
-- Use HTML, CSS, JS to create a web form that computes different outputs based on user input
+- Implement a web framework using external scripts and a CDN
+- Use HTML, CSS, JS, Bootstrap, and Git/Github to co-create a web form that computes different outputs based on user input
 
 </details>
 
@@ -24,7 +25,7 @@ Students who complete the following will be able to:
 <details>
 <summary>Preparation</summary>
 
-Complete the following to prepare for this assignment
+Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
 - [w3schools: HTTP Request Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
 - [Codecademy: JS 1-1 Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) (1–8)
@@ -56,8 +57,10 @@ Complete the following to prepare for this assignment
 #### Code
 
 - [ ] Use HTML, CSS, and JS to code your design inside `index.html`
-- [ ] Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) so users can enter different values to change the outcome of the story.
-- [ ] Use Javascript variables to allow users to change the outcome of the problem.
+- [ ] Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) to let users enter different values in order to change the outcome of the story.
+- [ ] Use [HTML form input attributes](https://www.w3schools.com/html/html_form_attributes.asp) to perform client-side validate on input values
+- [ ] Use [Javascript variables](https://www.w3schools.com/js/js_variables.asp) to allow users to change the outcome of the problem.
+- [ ] Use [Twitter Bootstrap framework](https://getbootstrap.com/) to style your form elements
 - [ ] Use images or other media as needed in the design or form outputs.
 
 #### Publish
@@ -89,3 +92,6 @@ Points | Category | Description
 ## Resources
 
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
+- W3Schools HTML [forms](https://www.w3schools.com/html/html_forms.asp), [elements](https://www.w3schools.com/html/html_form_elements.asp), [input types](https://www.w3schools.com/html/html_form_input_types.asp), [attributes](https://www.w3schools.com/html/html_forms_attributes.asp)
+- MDN Web Docs [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- Bootstrap [Introduction](https://getbootstrap.com/docs/5.1/getting-started/introduction/) and [Forms](https://getbootstrap.com/docs/5.1/forms/overview/)
