@@ -60,8 +60,10 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [ ] Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) to let users enter different values in order to change the outcome of the story.
 - [ ] Use [HTML form input attributes](https://www.w3schools.com/html/html_form_attributes.asp) to perform client-side validate on input values
 - [ ] Use [Javascript variables](https://www.w3schools.com/js/js_variables.asp) to allow users to change the outcome of the problem.
-- [ ] Use [Twitter Bootstrap framework](https://getbootstrap.com/) to style your form elements
+- [ ] Use [Twitter Bootstrap framework](https://getbootstrap.com/) to style your form elements.
 - [ ] Use images or other media as needed in the design or form outputs.
+- [ ] Display the math formula used in your project (either in the console or on the page), *after* the user submits the form.
+
 
 #### Publish
 - [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
@@ -85,6 +87,11 @@ Points | Category | Description
 20 | Total |
 
 </details>
+
+
+
+
+
 
 
 
