@@ -42,34 +42,37 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 ## Instructions
 
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
+
 
 #### Concept
 
-- [ ] Develop a concept for your project by researching [math story problems](https://www.google.com/search?hl=en&q=math+story+problems).
-- [ ] Subject matter is completely up to you. For example, you could think about how you might represent your own experiences with data, numbers, software, etc.
-- [ ] Consider the interface to be part of the concept, like in these [examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0): John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter), [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell), Alexei Shulgin [Form Art](http://www.c3.hu/collection/form), Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/), or Dan Kurtz [Binky](https://www.binky.rocks/)
+1. Develop a concept for your project by researching [math story problems](https://www.google.com/search?hl=en&q=math+story+problems).
+1. Subject matter is completely up to you. For example, you could think about how you might represent your own experiences with data, numbers, software, etc.
+1. Consider the interface to be part of the concept. Look for inspiration in [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math) like John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter), [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell), Alexei Shulgin [Form Art](http://www.c3.hu/collection/form), Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/), or Dan Kurtz [Binky](https://www.binky.rocks/)
+
 
 #### Design
 
-- [ ] Use Figma to create a wireframe and design iterations for your project.
+1. Use Figma to create a wireframe and design iterations for your project.
+
 
 #### Code
 
-- [ ] Use HTML, CSS, and JS to code your design inside `index.html`
-- [ ] Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) to let users enter different values in order to change the outcome of the story.
-- [ ] Use [HTML form input attributes](https://www.w3schools.com/html/html_form_attributes.asp) to perform client-side validate on input values
-- [ ] Use [Javascript variables](https://www.w3schools.com/js/js_variables.asp) to allow users to change the outcome of the problem.
-- [ ] Use [Twitter Bootstrap framework](https://getbootstrap.com/) to style your form elements.
-- [ ] Use images or other media as needed in the design or form outputs.
-- [ ] Display the math formula used in your project (either in the console or on the page), *after* the user submits the form.
+1. Use HTML, CSS, and JS to code your design inside `index.html`
+1. Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) to let users enter different values in order to change the outcome of the story.
+1. Use [HTML form input attributes](https://www.w3schools.com/html/html_form_attributes.asp) to perform client-side validate on input values
+1. Use [Javascript variables](https://www.w3schools.com/js/js_variables.asp) to allow users to change the outcome of the problem.
+1. Use [Twitter Bootstrap framework](https://getbootstrap.com/) to style your form elements.
+1. Use images or other media as needed in the design or form outputs.
+1. Display the math formula used in your project (either in the console or on the page), *after* the user submits the form.
 
 
 #### Publish
-- [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
-- [ ] Commit changes regularly.
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
-- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+1. Commit changes regularly.
+1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
+1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
 
