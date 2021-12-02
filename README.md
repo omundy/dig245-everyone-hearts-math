@@ -69,6 +69,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 
 #### Publish
+
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
 1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
