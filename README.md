@@ -49,8 +49,14 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 1. Develop a concept for your project by researching [math story problems](https://www.google.com/search?hl=en&q=math+story+problems).
 1. Subject matter is completely up to you. For example, you could think about how you might represent your own experiences with data, numbers, software, etc.
-1. Consider the interface to be part of the concept. Look for inspiration in [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math) like John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter), [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell), Alexei Shulgin [Form Art](http://www.c3.hu/collection/form), Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/), or Dan Kurtz [Binky](https://www.binky.rocks/)
-
+1. Consider how the interface reflects your concept. Look for inspiration in [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math) such as
+	- John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter), [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell)
+	- Alexei Shulgin [Form Art](http://www.c3.hu/collection/form)
+	- Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/)
+	- Dan Kurtz [Binky](https://www.binky.rocks/)
+	- [willrobotstakemyjob.com](https://willrobotstakemyjob.com/)
+	- Hartmut Bohnacker [Site Shaker](https://hartmut-bohnacker.de/projects/site-shaker)
+	- Adam Pearce [Aaronson Oracle](https://roadtolarissa.com/oracle/) or Nick Merrill [Aaronson Oracle](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)	
 
 #### Design
 
@@ -63,7 +69,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 1. Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) to let users enter different values in order to change the outcome of the story.
 1. Use [HTML form input attributes](https://www.w3schools.com/html/html_form_attributes.asp) to perform client-side validate on input values
 1. Use [Javascript variables](https://www.w3schools.com/js/js_variables.asp) to allow users to change the outcome of the problem.
-1. Use [Twitter Bootstrap framework](https://getbootstrap.com/) to style your form elements.
+1. Use [Twitter Bootstrap framework](https://getbootstrap.com/) to style your form elements. [Experiment](https://bootswatch.com/default/) with [examples](https://getbootstrap.com/docs/5.0/examples/).
 1. Use images or other media as needed in the design or form outputs.
 1. Display the math formula used in your project (either in the console or on the page), *after* the user submits the form.
 
