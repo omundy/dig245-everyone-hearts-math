@@ -7,6 +7,9 @@ Work with a partner to create a dynamic web page that performs a math story prob
 
 
 
+
+## Instructions
+
 <details>
 <summary>Learning Objectives</summary>
 
@@ -40,12 +43,15 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 
 
-## Instructions
-
-1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
+## Assigment
 
 
-#### Concept
+### Setup
+
+[Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
+
+
+### Concept
 
 1. Develop a concept for your project by researching [math story problems](https://www.google.com/search?hl=en&q=math+story+problems).
 1. Subject matter is completely up to you. For example, you could think about how you might represent your own experiences with data, numbers, software, etc.
@@ -56,14 +62,14 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 	- Dan Kurtz [Binky](https://www.binky.rocks/)
 	- [willrobotstakemyjob.com](https://willrobotstakemyjob.com/)
 	- Hartmut Bohnacker [Site Shaker](https://hartmut-bohnacker.de/projects/site-shaker)
-	- Adam Pearce [Aaronson Oracle](https://roadtolarissa.com/oracle/) or Nick Merrill [Aaronson Oracle](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)	
+	- Adam Pearce [Aaronson Oracle](https://roadtolarissa.com/oracle/) or Nick Merrill [Aaronson Oracle](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 
-#### Design
+### Design
 
 1. Use Figma to create a wireframe and design iterations for your project.
 
 
-#### Code
+### Code
 
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) to let users enter different values in order to change the outcome of the story.
@@ -74,11 +80,11 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 1. Display the math formula used in your project (either in the console or on the page), *after* the user submits the form.
 
 
-#### Publish
+### Publish
 
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
-1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
+1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
 1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 
@@ -108,7 +114,7 @@ Points | Category | Description
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
 - W3Schools HTML [forms](https://www.w3schools.com/html/html_forms.asp), [elements](https://www.w3schools.com/html/html_form_elements.asp), [input types](https://www.w3schools.com/html/html_form_input_types.asp), [attributes](https://www.w3schools.com/html/html_forms_attributes.asp)
 - MDN Web Docs [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 - Bootstrap [Introduction](https://getbootstrap.com/docs/5.1/getting-started/introduction/) and [Forms](https://getbootstrap.com/docs/5.1/forms/overview/)
