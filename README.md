@@ -21,9 +21,9 @@ Students who complete this assignment will be able to:
 - List attributes like `required`, `type`, `range`, `max`, and `pattern` used to set acceptable input values
 - Implement a web framework using external scripts and a CDN
 - Use HTML, CSS, JS, Bootstrap, and Git/Github to co-create a web form that computes different outputs based on user input
+- Course content listed on the schedule
 
 </details>
-
 
 <details>
 <summary>Preparation</summary>
@@ -39,6 +39,12 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 </details>
 
+<details>
+<summary>Rubric</summary>
+
+See Moodle.
+
+</details>
 
 
 
@@ -54,7 +60,10 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 ### Concept
 
 1. Develop a concept for your project by researching [math story problems](https://www.google.com/search?hl=en&q=math+story+problems).
-1. Subject matter is completely up to you. For example, you could think about how you might represent your own experiences with data, numbers, software, etc.
+1. The subject matter or questions you pose are completely up to you. For example
+	- Represent your own experiences with data, numbers, software, etc.
+	- How does gamification or other visible metrics change how you use software?
+	- Consider exploring a math, algorithmic, or other number "problem" you enjoy or would like to learn more about.
 1. Consider how the interface reflects your concept. Look for inspiration in [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math) such as
 	- John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter), [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell)
 	- Alexei Shulgin [Form Art](http://www.c3.hu/collection/form)
@@ -67,6 +76,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 ### Design
 
 1. Use Figma to create a wireframe and design iterations for your project.
+1. Include a link to your Figma designs.
 
 
 ### Code
@@ -90,19 +100,6 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 
 
-<details>
-<summary>Grading</summary>
-
-Points | Category | Description
----: | --- | ---
-4 | Concept | Idea is original and evokes deeper thinking on the subject.
-4 | Design | Overall quality and use of design principles; Graphics are consistent, layout displays clear information hierarchy
-4 | Execution | Concept and design is well-executed, is usable, and functions as intended
-4 | Instructions | Project is online, accessible, and linked from Moodle by the deadline
-4 | Validation | Valid HTML and CSS
-20 | Total |
-
-</details>
 
 
 
