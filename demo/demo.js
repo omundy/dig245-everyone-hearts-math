@@ -1,34 +1,48 @@
-
 /* javascript */
 
 // hide the h1
 // $("h1").hide();
 
-
+let clicks = 0;
 
 // declare a new global scoped variable
 let username = "";
+let requiredUsername = "secret";
 
-// select the .submit class, listen for click
-$(".submit").click(function(e){
 
-  // the click is coming from a form,
-  // so we need to prevent it from refreshing
-  // or going to a new page (its default)
-  e.preventDefault();
+$(".clickme").click(function() {
+	clicks++;
+	console.log(`You have clicked ${clicks} times!`);
+});
 
-  // *get* the value of the input.username
-  // store in variable
-  username = $(".username").val();
 
-  // log the value of username
-  console.log("username is " + username);
+// select the form, listen for click
+$("form").submit(function(e) {
 
-  // we can also *set* the value of .username
-  // $(".username").val("hello");
+	// the click is coming from a form, so we need to prevent
+	// it from refreshing or going to a new page (its default)
+	e.preventDefault();
 
-  // we can see all the props of the eventObject
-  // https://api.jquery.com/click/#click-handler
-  // console.log(e);
+	// view the eventObject - https://api.jquery.com/submit/
+	// console.log(e);
+
+	// *get* the value of the input.username store in variable
+	username = $(".username").val();
+
+	// log the value of username
+	console.log("username is " + username);
+
+	if (username == requiredUsername) {
+		$(".output").html(`
+			<div class="alert alert-success" role="alert">
+			  Welcome, member
+			</div>`);
+	} else {
+		$(".output").html(`
+			<div class="alert alert-danger" role="alert">
+			  Sorry that is not the right answer
+			</div>`);
+	}
+
 
 });

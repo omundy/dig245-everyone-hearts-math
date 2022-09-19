@@ -1,34 +1,54 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 
 <!-- meta tags, links to css, etc. -->
 <title>DIG 245 Everyone ♥ Math</title>
+
 <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
 </head>
+
 <body>
 
 <div class="container">
 
-  <!-- visible content goes here -->
-  <h1>DIG 245 Everyone ♥ Math</h1>
+	<!-- visible content goes here -->
+	<h1>DIG 245 Everyone ♥ Math</h1>
 
-  <form>
-    <div class="mb-3">
-      <input type="text" class="username form-control">
-    </div>
-    <div class="mb-3">
-      <button class="submit btn btn-primary">Submit</button>
-    </div>
+	<div class="row">
+		<div class="mb-3 col">
+			<button class="clickme btn btn-danger">Click Me!</button>
+		</div>
+	</div>
 
-  </form>
-  
+	<form>
+		<div class="row">
+			<div class="mb-3 col-10">
+				<input type="text" class="username form-control">
+			</div>
+			<div class="mb-3 col-2">
+				<button type="submit" class="btn btn-primary">Submit</button>
+			</div>
+		</div>
+		<div class="row">
+			<div class="mb-3 col-12">
+				<div class="output"></div>
+			</div>
+		</div>
+	</form>
+
 </div>
 
+<!-- jquery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<!-- JavaScript Bundle with Popper -->
+<!-- Boostrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+<!-- Project JS -->
 <script src="demo.js"></script>
+
 </body>
+
 </html>
