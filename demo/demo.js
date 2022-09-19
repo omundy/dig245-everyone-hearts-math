@@ -13,6 +13,13 @@ let requiredUsername = "secret";
 $(".clickme").click(function() {
 	clicks++;
 	console.log(`You have clicked ${clicks} times!`);
+	$(".clicks1").val(clicks);
+	$(".clicks2").val(clicks * clicks);
+	$(".clicks3").val(clicks * clicks * clicks);
+	$(".clicks4").val(clicks * clicks * clicks * clicks);
+	$(".clicks5").val(clicks * clicks * clicks * clicks * clicks);
+	$(".clicks6").val(clicks * clicks * clicks * clicks * clicks * clicks);
+	$(".clicks7").val(clicks * clicks * clicks * clicks * clicks * clicks * clicks);
 });
 
 
