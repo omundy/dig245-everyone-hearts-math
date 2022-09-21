@@ -1,2 +1,23 @@
 
 /* css */
+
+/* body {
+  background-image: url("assets/img/numbers-repeating-background.jpg");
+  background-repeat: repeat;
+  margin: 0;
+} */
+
+.container {
+  width:90vw;
+  height:90vh;
+  background-color:white;
+  margin:auto;
+  margin-top:5vh;
+  margin-bottom:5vh;
+  border-radius: 30px;
+  padding:2%;
+}
+
+.center {
+  text-align: center;
+}
