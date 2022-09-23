@@ -44,11 +44,11 @@ $("form").submit(function(e) {
     let value = $(position).val();
 
     if (answers[i-1] == value) {
-      console.log(answers[i], value, "correct!");
+      console.log(answers[i-1], value, "correct!");
       document.getElementsByClassName(colorPos)[0].style.backgroundColor = 'green';
       // change color
     } else {
-      console.log(answers[i], value, "incorrect");
+      console.log(answers[i-1], value, "incorrect");
       document.getElementsByClassName(colorPos)[0].style.backgroundColor = 'red';
 
     }
