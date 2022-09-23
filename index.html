@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 
-<!-- meta tags, links to css, etc. -->
-<title>DIG 245 Everyone ♥ Math</title>
+  <!-- meta tags, links to css, etc. -->
+  <title>DIG 245 Everyone ♥ Math</title>
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
-<link rel="stylesheet" href="assets/css/styles.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/styles.css">
 
 </head>
 
-<body style = "background-image: url(assets/img/numbers-repeating-background.jpg); background-repeat: repeat; margin: 0;">
-  <div class = "container">
-    <h1 class = "center">Multiplication Table</h1>
+<body style="background-image: url(assets/img/numbers-repeating-background.jpg); background-repeat: repeat; margin: 0;">
+  <div class="container">
+    <h1 class="center">Multiplication Table</h1>
 
-    <table class = "table">
-      <thead class = "thead-red">
+    <table class="table">
+      <thead class="thead-red">
         <th>num</th>
         <th>num</th>
         <th>num</th>
@@ -27,22 +28,32 @@
           <td>
             2 x 4
             <form>
-            <input type="text">
-            <button type = "submit" class="btn btn-primary">check</button>
-            </form></td>
+              <input type="text">
+              <button type="submit" class="btn btn-primary">check</button>
+            </form>
+          </td>
         </tr>
       </tbody>
     </table>
-    <!-- <form>
+
+    <div id="timerCard" class="card">
+      <div class="card-body">
+        <p>Click the button to start the timer</p>
+        <button type="button" id="timerStart" class="btn btn-primary">Start Timer</button>
+        <button type="button" id="timerStop" class="btn btn-primary">Stop Timer</button>
+        <div id="timerText">0</div>
+      </div>
+      <!-- <form>
       <input type="text" class="username">
       <button type="submit" class="btn btn-danger">Submit</button>
     </form> -->
 
-  </div>
+    </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
-<script src="assets/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <script src="assets/js/main.js"></script>
 
 </body>
+
 </html>
