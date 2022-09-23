@@ -1,6 +1,7 @@
 /* javascript */
-
-// $("h1").hide();
+//
+const timerStart = document.querySelector("#timerStart");
+const timerStop = document.querySelector("#timerStop");
 
 $(".clickme").click(function(e) {
   console.log("clicked!", e);
@@ -54,4 +55,27 @@ $("form").submit(function(e) {
   // console.log(username);
 });
 
-$(".output").html(str);
+let timerInterval;
+
+function timer(){
+  if (!timerInterval){
+    let seconds = 0;
+    timerInterval = setInterval(function(){
+      seconds++;
+      document.getElementById("timerText").innerHTML = seconds;
+    }, 1000);
+  }
+}
+
+function stopTimer(){
+  clearInterval(timerInterval);
+  timerInterval = null;
+}
+
+
+// $("#timerStart").click(function(){
+
+// });
+
+timerStart.addEventListener("click", timer);
+timerStop.addEventListener("click", stopTimer);
