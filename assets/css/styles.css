@@ -1,2 +1,44 @@
 
 /* css */
+
+body, head {
+  /* background-color: black; */
+  color: white;
+  font-family: Comic Sans MS;
+  background-image: url('https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hhbGtib2FyZCUyMHRleHR1cmV8ZW58MHx8MHx8&w=1000&q=80');
+}
+
+.dividers1 {
+  height: 40px;
+}
+
+.dividers2 {
+  height: 10px;
+}
+
+.streetVisual {
+  background-color: white;
+  height: 5px;
+  position: relative;
+}
+
+.you{
+  background-color: #B6E3A6;
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  position: absolute;
+  top: -2px;
+  left: 20%;
+  display: inline-block;
+}
+.friend{
+  background-color: #FE5757;
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  position: absolute;
+  top: -2px;
+  left: 80%;
+  display: inline-block;
+}
