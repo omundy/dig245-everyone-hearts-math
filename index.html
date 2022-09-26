@@ -3,13 +3,45 @@
 <head>
 
 <!-- meta tags, links to css, etc. -->
-<title>DIG 245 Everyone ♥ Math</title>
-
+<title>Davidson GPA Calcualtor</title>
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 </head>
 <body>
 
+<div class="container">
 <!-- visible content goes here -->
-<h1>DIG 245 Everyone ♥ Math</h1>
+<h1>Davidson Student GPA calculator</h1>
+<h2>Welcome to the Davidson GPA calculator, fill ou tthe form below to see your predicted GPA for this semester</h2>
 
+<form>
+  <label for"fname"> Name:</label>
+  <input type="text" name="fname" id="fname">
+  <br>
+  <label for"numClass">How many ?</label>
+  <input type="number" value = 4 name="numClass" id="numClass">
+  <br>
+  <label for"numstudy">How many hours per week do you spend studying?</label>
+  <input type="number" value = 12 name="numstudy" id="numstudy">
+  <br>
+  <label for"fname">How many classes are you enrolled in ?</label>
+  <input type="number" value = 12 name="numstudy" id="numstudy">
+  <br>
+  <label for"fname">How many hours per week do you spend studying?</label>
+  <input type="number" value = 12 name="numstudy" id="numstudy">
+  <br>
+  <label for"fname">How many hours per week do you spend studying?</label>
+  <input type="number" value = 12 name="numstudy" id="numstudy">
+  <br>
+
+
+  <button type = "submit" class="btn btn-primary submit">Button</button>
+
+</form>
+<div class="output"></div>
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="assets/js/main.js"></script>
 </body>
 </html>
