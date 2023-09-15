@@ -55,19 +55,27 @@ See Moodle.
 
 ## Concept
 
-1. Develop a concept for your project by researching [math story problems](https://www.google.com/search?hl=en&q=math+story+problems).
-1. The subject matter or questions you pose are completely up to you. For example
-	- Represent your own experiences with data, numbers, software, etc.
-	- How does gamification or other visible metrics change how you use software?
-	- Consider exploring a math, algorithmic, or other number "problem" you enjoy or would like to learn more about.
-1. Consider how the interface reflects your concept. Look for inspiration in [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math) such as
-	- John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter), [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell)
-	- Alexei Shulgin [Form Art](http://www.c3.hu/collection/form)
-	- Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/)
-	- Dan Kurtz [Binky](https://www.binky.rocks/)
-	- [willrobotstakemyjob.com](https://willrobotstakemyjob.com/)
-	- Hartmut Bohnacker [Site Shaker](https://hartmut-bohnacker.de/projects/site-shaker)
-	- Adam Pearce [Aaronson Oracle](https://roadtolarissa.com/oracle/) or Nick Merrill [Aaronson Oracle](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
+Develop a concept for your project. The subject matter or questions you pose are completely up to you. For example:
+
+- How might you represent your own experiences with data, numbers, or software?
+- How do gamification strategies or other visible metrics change how you use software?
+- What math, algorithmic, or other number "problem" might would you like to learn more about?
+- How will the interface you create reflect your concept? 
+
+
+## Inspiration
+
+- [Math story problems](https://www.google.com/search?hl=en&q=math+story+problems)
+- John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter) and [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell)
+- Alexei Shulgin [Form Art](http://www.c3.hu/collection/form)
+- Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/)
+- Dan Kurtz [Binky](https://www.binky.rocks/)
+- [willrobotstakemyjob.com](https://willrobotstakemyjob.com/)
+- Hartmut Bohnacker [Site Shaker](https://hartmut-bohnacker.de/projects/site-shaker)
+- Adam Pearce [Aaronson Oracle](https://roadtolarissa.com/oracle/) or Nick Merrill [Aaronson Oracle](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
+- [seeing-theory.brown.edu](https://seeing-theory.brown.edu/)
+- Other [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math)
+
 
 ## Design
 
