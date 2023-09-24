@@ -65,7 +65,6 @@ Develop a concept for your project. The subject matter or questions you pose are
 
 ## Inspiration
 
-- [Math story problems](https://www.google.com/search?hl=en&q=math+story+problems)
 - John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter) and [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell)
 - Alexei Shulgin [Form Art](http://www.c3.hu/collection/form)
 - Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/)
@@ -75,6 +74,7 @@ Develop a concept for your project. The subject matter or questions you pose are
 - Adam Pearce [Aaronson Oracle](https://roadtolarissa.com/oracle/) or Nick Merrill [Aaronson Oracle](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 - [seeing-theory.brown.edu](https://seeing-theory.brown.edu/)
 - Other [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math)
+- [Math story problems](https://www.google.com/search?hl=en&q=math+story+problems) on Google
 
 
 ## Design
@@ -127,8 +127,8 @@ https://mengfw-02.github.io/dig245-everyone-hearts-math/index.html
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
-- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - W3Schools HTML [forms](https://www.w3schools.com/html/html_forms.asp), [elements](https://www.w3schools.com/html/html_form_elements.asp), [input types](https://www.w3schools.com/html/html_form_input_types.asp), [attributes](https://www.w3schools.com/html/html_forms_attributes.asp)
 - MDN Web Docs [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-- Bootstrap [Introduction](https://getbootstrap.com/docs/5.1/getting-started/introduction/) and [Forms](https://getbootstrap.com/docs/5.1/forms/overview/)
+
