@@ -103,21 +103,21 @@ Develop a concept for your project. The subject matter or questions you pose are
 
 
 
-<!--
-
-HIGHLIGHTS
-
-2022
-https://kostasmateerstudent.github.io/dig245-everyone-hearts-math/
-https://etgeorge.github.io/dig245-everyone-hearts-math/
-https://drew-beamer.github.io/dig245-everyone-hearts-math/
-
-2021
-https://mengfw-02.github.io/dig245-everyone-hearts-math/index.html
-
--->
 
 
+
+
+<details>
+<summary>Past examples</summary>
+  
+- 2022
+    - [Kostas](https://kostasmateerstudent.github.io/dig245-everyone-hearts-math/)
+    - [Ethan](https://etgeorge.github.io/dig245-everyone-hearts-math/)
+    - [Drew](https://drew-beamer.github.io/dig245-everyone-hearts-math/)
+- 2021
+    - [Meng](https://mengfw-02.github.io/dig245-everyone-hearts-math/)
+
+</details>
 
 
 
