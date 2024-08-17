@@ -65,7 +65,7 @@ Develop a concept for your project. The subject matter or questions you pose are
 
 ## Inspiration
 
-See the [Critical Web Design Index](http://omundy.github.io/critical-web-design-index/) for examples tagged with [#forms](http://omundy.github.io/critical-web-design-index#forms), [#interface](http://omundy.github.io/critical-web-design-index#interface), or [#math](http://omundy.github.io/critical-web-design-index#math), including...
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#forms](https://omundy.github.io/critical-web-design-index#forms), [#interface](https://omundy.github.io/critical-web-design-index#interface), or [#math](https://omundy.github.io/critical-web-design-index#math), including...
 
 - John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter) and [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell)
 - Alexei Shulgin [Form Art](http://www.c3.hu/collection/form)
