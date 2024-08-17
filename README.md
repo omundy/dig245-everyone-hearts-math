@@ -65,6 +65,8 @@ Develop a concept for your project. The subject matter or questions you pose are
 
 ## Inspiration
 
+See the [Critical Web Design Index](http://omundy.github.io/critical-web-design-index/) for examples tagged with [#forms](http://omundy.github.io/critical-web-design-index#forms), [#interface](http://omundy.github.io/critical-web-design-index#interface), or [#math](http://omundy.github.io/critical-web-design-index#math), including...
+
 - John Maeda [Money Counter](http://www.maedastudio.com/2005/moneycounter/index.php?category=all&next=exists&prev=exists&this=moneycounter) and [Misspeller](http://www.maedastudio.com/2007/misspell/index.php?category=all&next=2007/human&prev=2007/reduce&this=misspell)
 - Alexei Shulgin [Form Art](http://www.c3.hu/collection/form)
 - Kass Schmitt and Yoz Grahame [Choose](https://bak.spc.org/choose/)
@@ -73,7 +75,6 @@ Develop a concept for your project. The subject matter or questions you pose are
 - Hartmut Bohnacker [Site Shaker](https://hartmut-bohnacker.de/projects/site-shaker)
 - Adam Pearce [Aaronson Oracle](https://roadtolarissa.com/oracle/) or Nick Merrill [Aaronson Oracle](https://people.ischool.berkeley.edu/~nick/aaronson-oracle/)
 - [seeing-theory.brown.edu](https://seeing-theory.brown.edu/)
-- Other [CWD examples](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) (e.g. tagged with forms, interface, math)
 - [Math story problems](https://www.google.com/search?hl=en&q=math+story+problems) on Google
 
 
