@@ -48,14 +48,10 @@ See Moodle.
 
 
 
-## Setup
-
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
-
 
 ## Concept
 
-Develop a concept for your project. The subject matter or questions you pose are completely up to you. For example:
+Develop a concept for your project. The subject matter or questions you pose are completely up to you. Some perspectives you might consider:
 
 - How might you represent your own experiences with data, numbers, or software?
 - How do gamification strategies or other visible metrics change how you use software?
@@ -63,7 +59,7 @@ Develop a concept for your project. The subject matter or questions you pose are
 - How will the interface you create reflect your concept? 
 
 
-## Inspiration
+#### Inspiration
 
 See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#forms](https://omundy.github.io/critical-web-design-index#forms), [#interface](https://omundy.github.io/critical-web-design-index#interface), or [#math](https://omundy.github.io/critical-web-design-index#math), including...
 
@@ -86,6 +82,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 ## Code
 
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use [HTML form fields](https://www.w3schools.com/html/html_forms.asp) to let users enter different values in order to change the outcome of the story.
 1. Use [HTML form input attributes](https://www.w3schools.com/html/html_form_attributes.asp) to perform client-side validate on input values
